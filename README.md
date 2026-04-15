@@ -1,6 +1,6 @@
 # Creative Library REST API
 
-This project is a RESTful API built using Node.js and Express for managing a library system. It also includes a simple frontend UI to interact with the API.
+This project is a RESTful Library Management API built using Node.js and Express, with full CRUD functionality and a frontend interface. It is also deployed and accessible online.
 
 ## Live Demo
 
